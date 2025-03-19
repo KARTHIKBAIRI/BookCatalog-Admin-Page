@@ -6,7 +6,7 @@ import java.sql.DriverManager;
 public class booksdb {
 	private static String Driver = "com.mysql.cj.jdbc.Driver";
 	private static String user = "root";
-	private static String password = "Karthikb@11";
+	private static String password = "Karthik";
 	private static String url = "jdbc:mysql://localhost:3306/bookcat";
 	private static Connection conn = null;
 	public static Connection conn() {
